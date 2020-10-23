@@ -1,0 +1,16 @@
+.banner {
+    background-image: linear-gradient(-226deg, rgba(0,0,0,1.8) -1%, rgba(0, 0, 0, 0.2) 30%), url(../../images/vacherin_glace.jpg);
+    color:white;
+    padding: 100px 0px;
+    background-size:cover;
+    background-position:center;
+}
+
+.banner h1 {
+    font-size:50px;
+}
+
+.banner h2 {
+    font-size:42px;
+    font-weight:lighter;
+}
